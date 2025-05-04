@@ -1,6 +1,6 @@
 # Raspberry Pi 5 Pinout
 
-![Raspberry Pi 5 Pinout](https://raw.githubusercontent.com/PhilipMello/icons/main/raspberry/raspberry-pi-5-pinout-01.png)
+![Raspberry Pi 5 Pinout](https://raw.githubusercontent.com/PhilipMello/media/refs/heads/main/raspberrypi/raspberry-pi-5-pinout-01.webp)
 
 In this diagram, we cover the following headers:
 
